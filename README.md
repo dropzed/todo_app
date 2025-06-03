@@ -1,6 +1,8 @@
 ![img.png](img.png)
 
 
+ссылка на репозиторий: https://github.com/dropzed/todo_app
+
 
 
 # My Todo Project
